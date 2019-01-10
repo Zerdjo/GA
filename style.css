@@ -1,0 +1,69 @@
+h1 {
+		    color: white;
+			font-family: Tahoma;
+			background-color:#00cbff;
+			padding:50px;
+			border:2px solid black;
+			width:550px;
+			text-align:center;
+		}
+		h2 {
+		    color:white;
+			background-color:#00cbff;
+			padding:50px;
+			border:2px solid black;
+			width:550px;
+			text-align:center;
+	
+		}
+		  a:link {
+			  text-decoration:none;
+			  
+			  
+			  
+		  }
+		  body {
+			  width:550px;
+			  margin-left:auto;
+			  margin-right:auto;
+			  
+			  
+			  
+		  }
+		  div {
+			  background-color:#00cbff;
+			  color:white;
+		  }
+		  #1 {
+			  text-decoration:underline;
+			  text-decoration:bold;
+		  }
+		 p {
+			 background-color:#00cbff;
+			  color:white;
+			  border:2px solid black;
+			  padding:50px;
+			 
+		 }
+	     #OCSH2 {
+		  color:white;
+		  text-decoration:bold
+		  }
+		  #OCSS {
+			  color:white;
+			  border:2px solid black;
+			  
+			  
+		  }
+		  #OCSR {
+			  text-decoration:underline;
+			  
+		  }
+		  #OCSJ {
+			  text-decoration:underline;
+			  border:2px solid black;
+		  }
+		   #OCSI {
+			  text-decoration:underline;
+			  border:2px solid black;
+		   }
